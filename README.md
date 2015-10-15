@@ -1,1 +1,1 @@
-# url_shortener
+Uses Slim PHP framework and Illuminate
